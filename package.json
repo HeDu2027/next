@@ -4,7 +4,7 @@
   "private": false,
   "license": "Anti 996",
   "engines": {
-    "node": "14.x"
+    "node": ">=12.18.0"
   },
   "scripts": {
     "dev": "yarn fetch && next dev",
